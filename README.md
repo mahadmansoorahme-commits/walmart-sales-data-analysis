@@ -17,11 +17,11 @@ and holiday impact using Python, SQL, and Power BI.
 - Sales peak during holiday weeks
 - Strong increase in Q4 months
 - Holiday weeks contribute ~X% of total sales
-## Dashboard Preview
+## Correlation Heatmap
 ![Walmart Sales Dashboard](images/correlation_heatmap.png)
-## Dashboard Preview
+## Holiday VS Non-Holiday Graph
 ![Walmart Sales Dashboard](images/holiday_vs_nonholiday.png)
-## Dashboard Preview
+## Weekly Sales Trend
 ![Walmart Sales Dashboard](images/weekly_sales_trend.png)
 ## Folder structure
 This project is organized in a simple and logical way to reflect a real-world data analysis workflow.
